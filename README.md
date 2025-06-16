@@ -38,6 +38,11 @@ I enjoy working on power systems, power electronics, and circuit design — alwa
 
 ---
 
+## 📊 GitHub Stats
+![Aftab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aftabalamm7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aftabalamm7&layout=compact&theme=tokyonight)
+
 ## 🤝 Let's connect!
 
 I'm always open to learning, collaborating, and working on impactful engineering projects.  
